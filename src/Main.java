@@ -9,9 +9,7 @@ public class Main {
 
         System.out.println(cat);
 
-        Cat secondCat = new Cat("Jo", 10);
 
-        System.out.print(secondCat);
 
     }
 
