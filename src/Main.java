@@ -4,6 +4,11 @@ public class Main {
         System.out.println("Hello World!");
 
         outputArray();
+
+        Cat cat = new Cat("Kitty", 1);
+
+        System.out.println(cat);
+
     }
 
     private static void outputArray() {
