@@ -16,12 +16,12 @@ public class Cat {
 
     @Override
     public String toString() {
-<<<<<<< HEAD
+
         String catView = "";
         catView += "Cat name is " + name + ". Octocat is " + age + " year old.";
         catView += "Meow Meow Meow "+name+"Meow";
         return catView;
->>>>>>> 9d6528d190758f13b630025e363db1c99d7fea27
+
     }
 
 }
