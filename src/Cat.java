@@ -30,6 +30,6 @@ public class Cat {
 
     @Override
     public String toString() {
-        return "Mega Cat is " + name + ". Has " + age + " years old.";
+        return "Meow Meow Meow "+name+"Meow";
     }
 }
