@@ -30,6 +30,9 @@ public class Cat {
 
     @Override
     public String toString() {
-        return "Mega Cat is " + name + ". Has " + age + " years old.";
+        String catView = "";
+        catView += "Cat name is " + name + ". Octocat is " + age + " year old.";
+        return catView;
     }
+
 }
